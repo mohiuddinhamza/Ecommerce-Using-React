@@ -1,0 +1,8 @@
+ text-gray-800
+secondary color-   text-gray-600
+bg-gray-900
+hover:bg-gray-700
+
+text-amber-400  logo and main section
+hover:text-amber-500
+ul color white
